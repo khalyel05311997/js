@@ -1,0 +1,48 @@
+#header{
+
+
+    background-color: #1C2541;
+	color: white;
+	padding:50px;
+    text-align: center;
+    height: 100px;
+
+}
+
+.header2{
+	 background-color: #1C2541;
+	color: white;
+	padding:50px;
+    text-align: center;
+    height: 100px;
+position: relative;
+top:-17px;
+}
+
+
+.section{
+
+background-color: #C8D5B9;
+color:black;
+padding:50px;
+position: relative;
+top:-15px;
+
+}
+
+.droite{
+	padding-left: 40px;
+	position: relative;
+	top:-150px;
+	left:750px;
+	font-size: 17px;
+	font-style:cursive;
+
+}
+
+#p1{
+
+	width: 500px;
+	height: 200px;
+}
+
